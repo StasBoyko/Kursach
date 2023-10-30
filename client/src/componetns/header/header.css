@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(0, 115, 255);
+    
+}
+.container{
+
+}
+.header_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+
+p{
+    color:white;
+    margin: 0px;
+}
